@@ -2,6 +2,7 @@
 
 ##**Contacts**
 nikitmiheenko@gmail.com
+
 ##**Personal qualities**
 Creative
 Sociable
