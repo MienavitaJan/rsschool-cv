@@ -3,13 +3,13 @@
 ## **Contact info**
 nikitmiheenko@gmail.com
 
-## **Summary** \
+## **Summary** 
 Creative\
 Sociable\
 Responsible\
-Considerate \
+Considerate 
 
-## **Skills** \ 
+## **Skills** 
 1.Kotlin\
 2.Java\
 3.Android Studio\
@@ -17,13 +17,13 @@ Considerate \
 5.Python\
 6.Photoshop\
 7.HTML\
-8.CSS \
+8.CSS 
 
-## **Aducation** \ 
+## **Aducation** 
 Belarusion National Technical University\
 *Faculty:* Instrumentation engineering \
 *Department:* Information Measuring Devices and Technologies\
-*Specialty:* Technical Safety(2018-2022)\ 
+*Specialty:* Technical Safety(2018-2022) 
 
-## **English level** \
+## **English level** 
 Intermidiate(B1)
