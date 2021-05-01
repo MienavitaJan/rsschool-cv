@@ -18,10 +18,12 @@ Considerate
 6.Photoshop
 7.HTML
 8.CSS
+9.
 ##**Aducation** 
 Belarusion National Technical University
 *Faculty:* Instrumentation engineering 
 *Department:* Information Measuring Devices and Technologies
 *Specialty:* Technical Safety(2018-2022) 
+
 ##**English level**
 Intermidiate(B1)
