@@ -10,14 +10,12 @@ Responsible\
 Considerate 
 
 ## **Skills** 
-1.Kotlin\
-2.Java\
-3.Android Studio\
-4.MySQL\
-5.Python\
-6.Photoshop\
-7.HTML\
-8.CSS 
+1.Java\
+2.Android Studio\
+3.MySQL\
+4.Photoshop\
+5.HTML\
+6.CSS 
 
 ## **Aducation** 
 Belarusion National Technical University\
