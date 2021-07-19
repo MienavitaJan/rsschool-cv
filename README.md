@@ -1,3 +1,3 @@
 # rsschool-cv
 
- https://MienavitaJan.github.io/rsschool-cv/cv
+ https://Hazemorn.github.io/rsschool-cv/cv
