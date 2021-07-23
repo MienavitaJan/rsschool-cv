@@ -3,12 +3,6 @@
 ## **Contact info**
 nikitmiheenko@gmail.com
 
-## **Summary** 
-Creative\
-Sociable\
-Responsible\
-Considerate 
-
 ## **Skills** 
 1.Java\
 2.Android Studio\
